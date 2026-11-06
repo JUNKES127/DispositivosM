@@ -1,4 +1,4 @@
-package com.example.appdesergio;
+package com.example.appdejunkes;
 
 import org.junit.Test;
 
